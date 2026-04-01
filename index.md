@@ -9,6 +9,7 @@ My main interest is <ins>multiplayer games</ins>, I would pretty much play any g
 >I pretty much play any rhythm game, if you are interested in rhythm games or Tetris in general, reach out!
 ## Programming Experience
 ![Java](java_logo.png){width=200}
+<img src="java_logo.png" width="200">
 ![C++](cpp_logo.png){width=200}
 ![C](c_logo.png){width=200}
 MASM
