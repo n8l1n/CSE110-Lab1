@@ -12,3 +12,16 @@ My main interest is <ins>multiplayer games</ins>, I would pretty much play any g
 <img src="cpp_logo.png" width="300">
 <img src="c_logo.png" width="300">
 MASM
+
+Take a look at how to print "Hello World" in c++!
+'''
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    cout << "Hello World";
+
+    return 0;
+}
+'''
