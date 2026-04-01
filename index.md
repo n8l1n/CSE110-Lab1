@@ -14,7 +14,7 @@ My main interest is <ins>multiplayer games</ins>, I would pretty much play any g
 MASM
 
 Take a look at how to print "Hello World" in c++!
-'''
+```
 #include <iostream>
 
 using namespace std;
@@ -24,4 +24,4 @@ int main() {
 
     return 0;
 }
-'''
+```
