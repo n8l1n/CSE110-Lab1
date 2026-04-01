@@ -8,8 +8,7 @@ During my free time, I enjoy playing videogames or playing piano.
 My main interest is <ins>multiplayer games</ins>, I would pretty much play any game that my friends play, but besides that, my **_main_ games** are Tetris or a selection of Rhythm Games ~Mainly PJSK or SDVX~<sub>I am also trying to get into dancing games like PIU or DDR</sub>.
 >I pretty much play any rhythm game, if you are interested in rhythm games or Tetris in general, reach out!
 ## Programming Experience
-![Java](java_logo.png){width=200}
-<img src="java_logo.png" width="200">
-![C++](cpp_logo.png){width=200}
-![C](c_logo.png){width=200}
+<img src="java_logo.png" width="300">
+<img src="cpp_logo.png" width="300">
+<img src="c_logo.png" width="300">
 MASM
