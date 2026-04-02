@@ -27,3 +27,5 @@ int main() {
     return 0;
 }
 ```
+
+[PSST...Wanna know my favorite language to work with of the ones listed?](docs/README.md)
