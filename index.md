@@ -47,5 +47,5 @@ As a CS major, I have had prior experiences working in teams, communicating, and
 
 ## TODO
 - [x] Discuss programming skills
-- [] Discuss Programming projects
-- [] Add more hobbies
+- [ ] Discuss Programming projects
+- [ ] Add more hobbies
