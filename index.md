@@ -28,7 +28,7 @@ My main interest is <ins>multiplayer games</ins>, I would pretty much play any g
 <img src="c_logo.png" width="300">
 MASM
 
-Take a look at how to print "Hello World" in c++!
+Take a look at how to print "Hello World" in C++!
 ```
 #include <iostream>
 
@@ -42,3 +42,10 @@ int main() {
 ```
 
 [PSST...Wanna know my favorite language to work with of the ones listed?](README.md)
+
+As a CS major, I have had prior experiences working in teams, communicating, and writing maintainable code. My last programming project with a team was to implement an online ordering system.
+
+## TODO
+- [x] Discuss programming skills
+- [] Discuss Programming projects
+- [] Add more hobbies
