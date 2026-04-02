@@ -1,7 +1,7 @@
 # About Me
 Hello, My name is **Nathan Lin**, I am a 3<sup>rd</sup> year transfer student at the [University of California, San Diego](https://ucsd.edu/). I am majoring in computer Science.
 
-['Skip to my programming experience'](#programming-experience)
+[*Skip to my programming experience*](#programming-experience)
 
 ## Hobbies
 During my free time, I enjoy playing videogames or playing piano.
