@@ -18,6 +18,10 @@ My main interest is <ins>multiplayer games</ins>, I would pretty much play any g
 * Sonata in G, Op. 49, No.2 - Ludwig Van Beethoven
 - Sonata in G, L. 79 - Domenico Scarlatti
 
+### Piano Songs in Progress
+1. Invention No. 8 in F, BWV 779 - Johann Sebastian Bach
+2. Venetian Boat Song in G Minor, Op. 19, No. 6 - Felix Mendelssohn
+
 ## Programming Experience
 <img src="java_logo.png" width="300">
 <img src="cpp_logo.png" width="300">
