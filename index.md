@@ -28,4 +28,4 @@ int main() {
 }
 ```
 
-[PSST...Wanna know my favorite language to work with of the ones listed?](docs/README.md)
+[PSST...Wanna know my favorite language to work with of the ones listed?](README.md)
